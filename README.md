@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql,expressjs,git,github,hmtl,css,c++,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql,expressjs,git,github,html,css,cpp,python,java)](https://skillicons.dev)
 
 ---
 
