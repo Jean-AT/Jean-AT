@@ -24,5 +24,3 @@
 - 🤝 **Team collaboration** — always open to sharing ideas and feedback.  
 
 ---
-
-> “Keep building. Every line of code is a step closer to mastery.” 🧑‍💻
