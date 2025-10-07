@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeanpool Arias  
 
-<!--
-**Jean-AT/Jean-AT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Software Engineering student** at the **Peruvian University of Applied Sciences (UPC)**.  
+💻 I have growing experience in **backend development**, where I enjoy building APIs and structured systems using modern technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 About Me  
+- 🌱 Currently learning **Java (Spring Boot)** and **Node.js** for backend development.  
+- 🎯 Passionate about creating practical software that solves real problems.  
+- ⚡ I believe in continuous learning and self-improvement through hands-on projects.  
+
+---
+
+## 🛠️ Languages  
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql,expressjs,git,github,hmtl,css,c++,python,java)](https://skillicons.dev)
+
+---
+
+## 🚀 Skills  
+- 🧠 **Autonomous learning** — I love exploring new technologies by myself.  
+- 🌐 **Basic English** — enough to read documentation and collaborate in global projects.  
+- 🧩 **Problem solving** — I focus on writing clean and efficient code.  
+- 🤝 **Team collaboration** — always open to sharing ideas and feedback.  
+
+---
+
+> “Keep building. Every line of code is a step closer to mastery.” 🧑‍💻
