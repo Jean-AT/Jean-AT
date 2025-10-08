@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeanpool Arias  
+# 👋 Hi, I'm Jean Arias  
 
 🎓 I'm a **Software Engineering student** at the **Peruvian University of Applied Sciences (UPC)**.  
 💻 I have growing experience in **backend development**, where I enjoy building APIs and structured systems using modern technologies.  
