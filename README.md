@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Jean-AT's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 # Hi, I'm Jean Arias  
 
 I'm a **Software Engineering student** at the **Peruvian University of Applied Sciences (UPC)**.  
@@ -16,7 +10,7 @@ I have growing experience in **backend development**, where I enjoy building API
 - I believe in continuous learning and self-improvement through hands-on projects.  
 
 
-## 🛠️ Languages  
+## Languages  
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql,expressjs,git,github,html,css,cpp,python,java)](https://skillicons.dev)
 
 ## Skills  
