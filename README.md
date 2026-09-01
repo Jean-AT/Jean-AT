@@ -15,7 +15,7 @@ I have growing experience in **backend development**, where I enjoy building API
 
 
 ## Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql,expressjs,git,github,html,css,cpp,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,cpp,python,angular,react,postgresql,git,github,aws,azure,docker,bash)](https://skillicons.dev)
 
 ## Skills  
 -  **Autonomous learning** — I love exploring new technologies by myself.  
