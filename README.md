@@ -1,3 +1,7 @@
+<picture>
+  <img alt="Jean-AT's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hi, I'm Jean Arias  
 
 I'm a **Software Engineering student** at the **Peruvian University of Applied Sciences (UPC)**.  
